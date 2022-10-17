@@ -44,7 +44,7 @@ def mr_wibu():
 
 def logo_taekyung():
     try:
-        os.system("xdg-open https://youtube.com/c/TEKNO67161-imron")
+        os.system("xdg-open https://youtube.com/channel/UCtJ2OrQ-ARV3AaGI5_rAOaQ")
         time.sleep(3)
         os.system("clear")
         print(f"""
@@ -57,7 +57,7 @@ def logo_taekyung():
 \033[33;1m   \/_____/  \/_/  \/_/  \/_____/ \033[36;1m           \033[31;1m   \/_/   \/_/  \/_/\/_/ {putih}[\033[33;1mVersi \033[36;m0.2{putih}]
 
 \033[33;1m╔════════════════════════════════════════════════╗
-\033[33;1m║\033[36;1m [•] Yotube  : tekno 67161 \033[33;1m ║
+\033[33;1m║\033[36;1m [•] Yotube  : BlackXploit \033[33;1m ║
 \033[33;1m╚════════════════════════════════════════════════╝
 \033[36;1m╔═══════════════════════════╗
    \033[36;1m║\033[33;1m GUNAKAN DENGAN BIJAK\033[36;1m ║
