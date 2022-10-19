@@ -44,7 +44,7 @@ def mr_wibu():
 
 def logo_taekyung():
     try:
-        os.system("xdg-open https://youtube.com/channel/UCtJ2OrQ-ARV3AaGI5_rAOaQ")
+        os.system("xdg-open https://youtube.com/channel/UCus7ckW0Nv6x5_AwBhDLI6Q")
         time.sleep(3)
         os.system("clear")
         print(f"""
